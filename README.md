@@ -1,7 +1,4 @@
-# signed_bipartite_networks
-Balance in Signed Bipartite Networks.
-
-## Balance in Signed Bipartite Networks (CIKM 2019)
+# Balance in Signed Bipartite Networks
 
 #### Authors: [Tyler Derr](http://www.TylerDerr.com) (derrtyle@msu.edu), Cassidy Johnson(c_johnson49@u.pacific.edu), [Yi Chang](http://www.yichang-cs.com/)(yichang@jlu.edu.cn), and [Jiliang Tang](http://www.cse.msu.edu/~tangjili)(tangjili@msu.edu)
 
