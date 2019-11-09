@@ -34,6 +34,17 @@ More specifically, the analysis on the undirected signed butterfly isomorphism c
 
 <div style="text-align:center"><img src ="signed_bipartite_network_stats.png" ,width=300/></div>
 
+The structure of the datasets are as follows:
+
+n<sub>B</sub> n<sub>S</sub> |E|
+
+<img src="https://render.githubusercontent.com/render/math?math=b_i"> <img src="https://render.githubusercontent.com/render/math?math=b_i"> <img src="https://render.githubusercontent.com/render/math?math={\bf B}_{ij}">
+
+...
+
+where <img src="https://render.githubusercontent.com/render/math?math={\bf B}_{ij} \in \{-1,1\}">. 
+
+
 If you make use of this data and/or code in your work, please cite the following paper:
 
     @inproceedings{derr2019bipartite,
