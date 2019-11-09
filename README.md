@@ -38,7 +38,7 @@ The structure of the datasets are as follows:
 
 n<sub>B</sub> n<sub>S</sub> |E|
 
-<img src="https://render.githubusercontent.com/render/math?math=b_i"> <img src="https://render.githubusercontent.com/render/math?math=b_i"> <img src="https://render.githubusercontent.com/render/math?math={\bf B}_{ij}">
+<img src="https://render.githubusercontent.com/render/math?math=b_i"> <img src="https://render.githubusercontent.com/render/math?math=s_j"> <img src="https://render.githubusercontent.com/render/math?math={\bf B}_{ij}">
 
 ...
 
