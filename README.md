@@ -54,5 +54,3 @@ If you make use of this data and/or code in your work, please cite the following
     } 
 
 See our [paper](http://www.cse.msu.edu/~derrtyle/papers/cikm2019-signed_bipartite_networks.pdf) for details on the datasets and/or algorithms.
-
-## Data now available and code coming soon!
